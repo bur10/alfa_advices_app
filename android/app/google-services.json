@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1095076567724",
+    "firebase_url": "https://alpha-advices-app.firebaseio.com",
+    "project_id": "alpha-advices-app",
+    "storage_bucket": "alpha-advices-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095076567724:android:cb4254ef0d55e2c7a51d09",
+        "android_client_info": {
+          "package_name": "com.muhtar.alfa_advices_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095076567724-f2pmub82ufgd5ff682h3th2tpmn6rk18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkrohBvd_R3C_R6PdiGjcT8i2Iz1R8iJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1095076567724-f2pmub82ufgd5ff682h3th2tpmn6rk18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
